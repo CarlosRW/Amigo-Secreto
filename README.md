@@ -21,7 +21,8 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora local:
    ```bash
    git clone https://github.com/CarlosRW/amigo-secreto.git
    cd amigo-secreto
-2. Abre el archivo index.html en tu navegador web.
+   
+2. Abre el archivo `index.html` en tu navegador web.
 
 3. (Opcional) Usar un servidor local: Si prefieres un entorno local más avanzado:
 Instala un servidor web como "Live Server" en Visual Studio Code (VSCode).
@@ -30,7 +31,13 @@ Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
 ## 📚 Uso
 - Escribe el nombre de tus amigos en el campo de texto.
 - Haz clic en el botón "Añadir" para agregar cada amigo a la lista.
+![Escribir nombre y añadir](assets/agregarnombreamigosecreto.gif)
+
 - Cuando todos los nombres estén listos, presiona "Sortear amigo" para asignar aleatoriamente un amigo secreto.
+![Sortear amigo](assets/sortearamigosecreto.gif)
+
+- Para usarlo directamente en tu navegador, puedes hacer clic en el siguiente enlace: [Usar en el navegador](https://carlosrw.github.io/Amigo-Secreto/).
+
 ¡Disfruta del juego y comparte regalos! 🎉
 
 ## 🛠️ Tecnologías utilizadas

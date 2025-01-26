@@ -5,7 +5,7 @@
 ¡Bienvenido a **Amigo Secreto**!
 Una aplicación web sencilla e intuitiva para organizar el tradicional juego del amigo secreto. ¡Agrega los nombres de tus amigos, sortea al azar, y diviértete compartiendo regalos!
 
-![Vista previa del proyecto](assets/imagen-proyecto-amigo-secreto.png)
+![Vista previa del proyecto](https://github.com/CarlosRW/Amigo-Secreto/blob/main/assets/imagen%20proyecto%20amigo-secreto.png?raw=true)
 
 <h1> Challenge Amigo Secreto Practicar Lógica de Programación con JavaScript </h1>
 

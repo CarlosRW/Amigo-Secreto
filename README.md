@@ -40,54 +40,35 @@ Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="80"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="80"/>
 </p>
-
-
 - **HTML5:** Estructura de la página.
 - **CSS3:** Estilización de la interfaz.
 - **JavaScript:** Lógica para gestionar la lista de amigos y el sorteo.
-
 
 ## 📈 Mejoras a futuro
 Algunas ideas para agregar más funcionalidades al proyecto:
 
 **JavaScript:**
-Implementar validaciones para evitar nombres duplicados en la lista de amigos.
-Agregar un botón para eliminar nombres individuales de la lista.
-Mejorar el algoritmo de sorteo para que sea más robusto, evitando asignar el mismo amigo secreto a sí mismo.
-Mostrar una ventana emergente con los resultados del sorteo en lugar de actualizar la lista.
-Guardar la lista de amigos en el almacenamiento local del navegador (localStorage) para mantener los datos después de recargar la página.
+- Implementar validaciones para evitar nombres duplicados en la lista de amigos.
+- Agregar un botón para eliminar nombres individuales de la lista.
 
 **HTML:**
-Crear una sección donde se puedan visualizar los resultados del sorteo con un diseño más estructurado.
-Añadir un botón para limpiar toda la lista de amigos y reiniciar el proceso.
-Incluir campos adicionales para personalizar el juego, como un mensaje especial para los participantes.
-Agregar una sección de instrucciones o tutorial dentro de la página.
+- Crear una sección donde se puedan visualizar los resultados del sorteo con un diseño más estructurado.
+- Añadir un botón para limpiar toda la lista de amigos y reiniciar el proceso.
+- Agregar una sección de instrucciones o tutorial dentro de la página.
+- Hacer la aplicación accesible en varios idiomas (español, inglés, etc.).
 
 **CSS:**
-Mejorar la responsividad del diseño para dispositivos móviles y pantallas pequeñas.
-Agregar animaciones sutiles al añadir nombres y al realizar el sorteo.
-Diseñar un modal elegante para mostrar los resultados del sorteo.
-Crear un tema oscuro como opción alterna para los usuarios.
+- Mejorar la responsividad del diseño para dispositivos móviles y pantallas pequeñas.
+- Agregar animaciones sutiles al añadir nombres y al realizar el sorteo.
+- Crear un tema oscuro como opción alterna para los usuarios.
 
-**Exportar e imprimir resultados:**
-Permitir a los usuarios descargar los resultados del sorteo en formato PDF o enviar un correo con las asignaciones.
+**Otros:**
+- Añadir la opción de compartir las asignaciones en redes sociales o grupos de chat.
 
-**Integración con redes sociales:**
-Añadir la opción de compartir las asignaciones en redes sociales o grupos de chat.
+## 🎯 Challenge
+Este proyecto forma parte de la formación **ONE - Oracle Next Education**, un programa educativo diseñado para el desarrollo de habilidades tecnológicas y profesionales.
 
-**Responsividad mejorada:**
-Asegurarse de que la interfaz sea completamente funcional en dispositivos móviles y tabletas.
+Además, es un desafío proporcionado por **Alura Latam**, una plataforma de aprendizaje que ofrece proyectos prácticos y guías paso a paso para fortalecer conocimientos en programación y diseño web. Al completar este proyecto, obtendré un certificado que avala mi aprendizaje y progreso en este curso.
 
-**Guardar la lista en localStorage:**
-
-Guardar automáticamente los nombres ingresados para evitar perderlos al cerrar la página.
-Tema oscuro:
-
-Incluir un botón para activar/desactivar un tema oscuro.
-Soporte para múltiples idiomas:
-
-Hacer la aplicación accesible en varios idiomas (español, inglés, etc.).
-
-## 👩‍💻 Autores
+## 👩‍💻 Autor
 Carlos Eduardo Ramírez Wong.
-

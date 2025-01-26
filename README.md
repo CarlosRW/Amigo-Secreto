@@ -40,6 +40,7 @@ Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="80"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="80"/>
 </p>
+
 - **HTML5:** Estructura de la página.
 - **CSS3:** Estilización de la interfaz.
 - **JavaScript:** Lógica para gestionar la lista de amigos y el sorteo.
